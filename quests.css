@@ -13,7 +13,7 @@
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center center;
-  position: fixed;
+  position: absolute;
   left: 0;
   animation: floatingCloud 9s linear infinite;
 }
@@ -27,7 +27,7 @@
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center center;
-  position: fixed;
+  position: absolute;
   left: 0;
   opacity: 0;
   animation: floatingCloud2 9s linear infinite 3s;
@@ -42,7 +42,7 @@
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center center;
-  position: fixed;
+  position: absolute;
   left: 0;
   opacity: 0;
   animation: floatingCloud2 9s linear infinite 6s;
